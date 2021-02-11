@@ -5,6 +5,6 @@ Ich bin der Oger und übersedse deinne scheiß in Meddlfrängisch, hätt ich gsa
 Wenn du Worschläge haschd, mach hier einne Bull Requeschd häd ich jeds gsacht: 
 # [toOgerBot's GitHub Repository](https://github.com/OgerBot/toOgerBot)
 
-<br>
 
-<image src=oger.png>
+
+![](oger.png)
