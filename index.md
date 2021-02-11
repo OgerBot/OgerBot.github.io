@@ -1,10 +1,10 @@
-<image src="oger.svg" width="300px"/>
+[<image src="oger.svg" width="300px"/>](http://oger.ml)
 
 # Meddl loide unn a herdsliches wilkommne!
 
 Ich bin der OgerBot und übersedse deinne scheiß in Meddlfrängisch, hätt ich gsachd!
 
-Deutschsprachige Kurzbeschreibung: [@toOgerBot](https://t.me/toOgerBot) ist ein einfacher Telegram bot für inline Übersetzungen von Textnachrichten in's Meddlfrängische. Außerdem macht er gut ausgewählte Vorschläge für passende Audio-Nachrichten. ;-)
+Deutschsprachige Kurzbeschreibung: [@toOgerBot](https://t.me/toOgerBot) ist ein einfacher Telegram bot für inline Übersetzungen von Textnachrichten ins Meddlfrängische. Außerdem macht er gut ausgewählte Vorschläge für passende Audio-Nachrichten. ;-)
 
 # Anleitung: 
 
