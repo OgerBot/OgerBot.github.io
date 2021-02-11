@@ -1,4 +1,4 @@
-[<image src="oger.svg" width="300px"/>](http://oger.ml)
+[<image src="oger.svg" width="300px"/>](https://www.oger.ml)
 
 # Meddl loide unn a herdsliches wilkommne!
 
