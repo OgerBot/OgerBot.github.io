@@ -1,4 +1,4 @@
-<image src="oger.png" width="350px"/>
+<image src="oger.svg" width="300px"/>
 
 # Meddl loide unn a herdsliches wilkommne!
 
