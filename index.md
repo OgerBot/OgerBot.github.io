@@ -1,3 +1,4 @@
+![oger](oger.png)
 # Meddl loide unn a herdsliches wilkommne!
 
 Ich bin der OgerBot und übersedse deinne scheiß in Meddlfrängisch, hätt ich gsachd!
@@ -12,5 +13,3 @@ Deutschsprachige Kurzbeschreibung: [@toOgerBot](https://t.me/toOgerBot) ist ein 
 
 # Wenn du Worschläge haschd, mach hier einne Bull Requeschd häd ich jeds gsacht: 
 # [toOgerBot's GitHub Repository](https://github.com/OgerBot/toOgerBot)
-
-![](oger.png)
