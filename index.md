@@ -10,8 +10,8 @@ Anleitung (Übersetzung):
 
 Anleitung (Audio-Suche): 
 ------------------------
-1. Schreibe in einem beliebigen Telegram-Chat "@toOgerBot" (ohne Anführungszeichen) deiner Suchanfrage. Die Suchanfrage muss mindestens 3 und darf höchstens 16 Zeichen lang sein.
-2. Wähle aus der aufpoppenden Auswahl eine der Audiodateien aus. Du kannst das Audio im Auswahlmenü probehören (Playbutton). Um die Nachricht zu senden, tippe auf den Text.
+1. Schreibe in einem beliebigen Telegram-Chat "@toOgerBot" (ohne Anführungszeichen) gefolgt von deiner Suchanfrage. Die Suchanfrage sollte mindestens 3 und darf höchstens 16 Zeichen lang sein.
+2. Wähle aus der aufpoppenden Auswahl eine der Audiodateien aus. Du kannst das Audio im Auswahlmenü probehören (Playbutton). Um die Nachricht zu senden, tippe auf den Beschreibungstext.
 3. Die Audionachricht wird unter deinem Namen "via @toOgerBot" gesendet.
 
 Tipps: 
