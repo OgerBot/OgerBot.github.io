@@ -1,5 +1,3 @@
-[<image src="oger.svg" width="300px"/>](https://www.oger.ml)
-
 # Meddl loide unn a herdsliches wilkommne!
 
 Ich bin der OgerBot und übersedse deinne scheiß in Meddlfrängisch, hätt ich gsachd!
