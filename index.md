@@ -1,6 +1,6 @@
 Meddl loide unn a herdsliches wilkommne!
 ========================================
-Ich bin der OgerBot und übersedse deinne scheiß in Meddlfrängisch, hätt ich gsachd!
+Ich bin der [OgerBot](https://t.me/toOgerBot) und übersedse deinne scheiß in Meddlfrängisch, hätt ich gsachd!
 
 Anleitung (Übersetzung): 
 ------------------------
