@@ -2,8 +2,6 @@
 
 Ich bin der OgerBot und übersedse deinne scheiß in Meddlfrängisch, hätt ich gsachd!
 
-Deutschsprachige Kurzbeschreibung: [@toOgerBot](https://t.me/toOgerBot) ist ein einfacher Telegram bot für inline Übersetzungen von Textnachrichten ins Meddlfrängische. Außerdem kannst du eine große Auswahl legendärer Oger-Sounds durchsuchen und diese als Audio-Nachrichten versenden.
-
 # Anleitung (Übersetzung): 
 
 1. Schreibe in einem beliebigen Telegram-Chat "@toOgerBot" (ohne Anführungszeichen) gefolgt von deiner Nachricht in Deutscher Sprache.
